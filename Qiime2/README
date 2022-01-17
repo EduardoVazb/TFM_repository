@@ -1,5 +1,3 @@
-#####README#####
-#Los Resultados del análisis QIIME2 se encuentran el el directorio Resultados
-#El directorio Data contiene los archivos para la asignación taxonómica empleada 
-# y el fichero con el script de selección para los archivos .fastq
-#El Script_Qiime2 fue ejecutado con el código desde la shell de unix
+Los Resultados del análisis QIIME2 se encuentran el el directorio Resultados
+El directorio Data contiene los archivos para la asignación taxonómica empleada y el fichero con el script de selección para los archivos .fastq
+El Script_Qiime2 fue ejecutado con el código desde la shell de unix
