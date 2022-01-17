@@ -1,4 +1,3 @@
-####README####
-##Directorio con los archivos con .yml con la información de los ambientes conda generados
-#"qiime2_env.yml" con la información del ambiente del análisis con QIIME2
-#"r_env.yml" con la informaicón del ambiente del análisis con phyloseq en Rstudio
+Directorio con los archivos con .yml con la información de los ambientes conda generados
+"qiime2_env.yml" con la información del ambiente del análisis con QIIME2
+"r_env.yml" con la informaicón del ambiente del análisis con phyloseq en Rstudio
